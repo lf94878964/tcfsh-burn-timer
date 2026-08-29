@@ -1,0 +1,39 @@
+# 環境變數
+.env
+
+# Python 虛擬環境/快取
+.local/
+.cache/
+__pycache__/
+*.pyc
+
+# 日誌檔
+*.log
+*.log.*
+log/
+
+# 壓縮備份檔
+*.tar.gz
+*.zip
+*.bat
+
+# 資料庫
+*.db
+*.db-wal
+*.db-shm
+*.db-journal
+
+# JSON（如果你想全部忽略，保留這行；如果要保留 config.json 等，改用下面的排除法）
+*.json
+*.txt
+!requirements.txt
+*.md
+
+!data/quote/*.json
+!data/cooperate/*.txt
+!data/exam/exam_bg.json
+!data/exam/exam_dates.json
+!data/item/item.json
+!docs/*.md
+image/exam_image/
+

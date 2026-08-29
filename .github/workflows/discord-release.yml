@@ -1,0 +1,156 @@
+name: Discord Release Notification
+on:
+  push:
+    tags:
+      - 'v*'
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout tag commit
+        uses: actions/checkout@v4
+        with:
+          # 不需要完整歷史，只需要這個 tag 指到的 commit 跟 tag 本身的 annotation。
+          # 原本的 fetch-depth: 0 會把整個 repo 歷史（含所有物件）clone 下來，
+          # 是造成「push 後很久才收到 Discord 通知」的主因，改成淺層 checkout。
+          #
+          # 注意：這裡故意不加 fetch-tags: true —— 由 tag push 觸發時
+          # GITHUB_REF 本身就是 refs/tags/vX.Y.Z，actions/checkout 已經會把
+          # 這個 tag 抓下來；再明確加 fetch-tags: true 會讓它多抓一次全部
+          # tag 到同一個 ref，兩邊互相衝突而報錯：
+          #   Cannot fetch both <sha> and refs/tags/vX.Y.Z to refs/tags/vX.Y.Z
+          fetch-depth: 1
+
+      - name: Get tag & commit info
+        id: info
+        run: |
+          TAG_NAME="${GITHUB_REF_NAME}"
+          COMMIT_SHA="${GITHUB_SHA}"
+          SHORT_SHA=$(echo "$COMMIT_SHA" | cut -c1-7)
+
+          # 優先取 annotated tag 的訊息，沒有的話（lightweight tag）退回該次 commit 訊息
+          TAG_MSG=$(git tag -l --format='%(contents)' "$TAG_NAME")
+          if [ -z "$TAG_MSG" ]; then
+            TAG_MSG=$(git log -1 --format='%B' "$COMMIT_SHA")
+          fi
+
+          AUTHOR_NAME=$(git log -1 --format='%an' "$COMMIT_SHA")
+
+          echo "TAG_NAME=$TAG_NAME" >> $GITHUB_ENV
+          echo "SHORT_SHA=$SHORT_SHA" >> $GITHUB_ENV
+          echo "AUTHOR_NAME=$AUTHOR_NAME" >> $GITHUB_ENV
+
+          # 版本說明不截斷，改成依 900 字元上限切成多段，每段寫入一個檔案
+          echo "$TAG_MSG" > /tmp/tag_msg.txt
+          awk -v limit=900 -v prefix=/tmp/chunk_tag_ '
+            BEGIN { n=1; buf="" }
+            {
+              line = $0
+              candidate = (buf == "" ? line : buf "\n" line)
+              if (length(candidate) > limit && buf != "") {
+                out = sprintf("%s%03d.txt", prefix, n)
+                print buf > out
+                close(out)
+                n++
+                buf = line
+              } else {
+                buf = candidate
+              }
+            }
+            END {
+              if (buf != "") {
+                out = sprintf("%s%03d.txt", prefix, n)
+                print buf > out
+                close(out)
+              } else if (n == 1) {
+                out = sprintf("%s%03d.txt", prefix, n)
+                print "（無版本說明）" > out
+                close(out)
+              }
+            }
+          ' /tmp/tag_msg.txt
+
+      - name: Send Discord Embed Notification
+        env:
+          # 公開頻道
+          DISCORD_WEBHOOK_PUBLIC: ${{ secrets.DISCORD_WEBHOOK }}
+          # 私人頻道（請到 repo Settings > Secrets and variables > Actions 新增此 secret）
+          DISCORD_WEBHOOK_PRIVATE: ${{ secrets.DISCORD_WEBHOOK_PRIVATE }}
+          COMMIT_URL: https://github.com/${{ github.repository }}/commit/${{ github.sha }}
+          REPO_NAME: ${{ github.repository }}
+        run: |
+          set -e
+          NOW="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+
+          CHUNK_FILES=(/tmp/chunk_tag_*.txt)
+          TOTAL=${#CHUNK_FILES[@]}
+
+          send_to_webhook() {
+            local webhook="$1"
+            local label="$2"
+            if [ -z "$webhook" ]; then
+              echo "⚠️ ${label} webhook 未設定，略過發送。"
+              return 0
+            fi
+
+            local i=1
+            for f in "${CHUNK_FILES[@]}"; do
+              local chunk title field_name
+              chunk=$(cat "$f")
+
+              if [ "$i" -eq 1 ]; then
+                title="🚀 [${REPO_NAME}] 新版本發布 ${TAG_NAME}"
+              else
+                title="🚀 [${REPO_NAME}] ${TAG_NAME} 版本說明（續 ${i}/${TOTAL}）"
+              fi
+
+              if [ "$TOTAL" -gt 1 ]; then
+                field_name="📋 版本說明（${i}/${TOTAL}）"
+              else
+                field_name="📋 版本說明"
+              fi
+
+              payload=$(jq -n \
+                --arg username "GitHub Release" \
+                --arg avatar "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" \
+                --arg author "$AUTHOR_NAME" \
+                --arg author_icon "https://github.com/lf94878964/image/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202026-08-26%20015246.png?raw=true" \
+                --arg title "$title" \
+                --arg url "$COMMIT_URL" \
+                --arg desc "\`${SHORT_SHA}\`" \
+                --arg field_name "$field_name" \
+                --arg chunk "$chunk" \
+                --arg ts "$NOW" \
+                '{
+                  username: $username,
+                  avatar_url: $avatar,
+                  embeds: [
+                    {
+                      author: { name: $author },
+                      title: $title,
+                      url: $url,
+                      description: $desc,
+                      thumbnail: { url: $author_icon },
+                      fields: [ { name: $field_name, value: ("```\n" + $chunk + "\n```") } ],
+                      color: 15844367,
+                      footer: { text: "台中一中炎上警報器版本發布通知" },
+                      timestamp: $ts
+                    }
+                  ]
+                }')
+
+              curl -sS --fail --connect-timeout 5 --max-time 15 \
+                -H "Content-Type: application/json" -X POST -d "$payload" "$webhook" \
+                || echo "⚠️ 發送給 ${label} 失敗（第 ${i}/${TOTAL} 段）"
+
+              # Discord webhook rate limit 是 5 requests / 2 秒；分段多的時候
+              # 快速連續發送很容易被 429，之後段落照樣送出但可能被丟棄。
+              if [ "$TOTAL" -gt 1 ] && [ "$i" -lt "$TOTAL" ]; then
+                sleep 0.5
+              fi
+              i=$((i + 1))
+            done
+          }
+
+          send_to_webhook "$DISCORD_WEBHOOK_PUBLIC" "公開頻道"
+          send_to_webhook "$DISCORD_WEBHOOK_PRIVATE" "私人頻道"
