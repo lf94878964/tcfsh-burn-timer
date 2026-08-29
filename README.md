@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 一中有多少天沒有被炎上計時器
 
 即時追蹤台中一中距離上次炎上已過了多久（精確到秒）。
@@ -5,6 +6,13 @@
 專案參考：[建中炎上計時器](https://github.com/Frisk0316/CKHS-burn-timer)
 
 **[→ 線上版本](https://mura-0721.github.io/tcfsh-burn-timer/)**
+=======
+# 建中有多少天沒有被炎上計時器
+
+即時追蹤建國中學距離上次炎上已過了多久（精確到秒）。
+
+**[→ 線上版本](https://frisk0316.github.io/CKHS-burn-timer/)**
+>>>>>>> d558ac6c0f2f8c4a8722092cbc9abb00d80b8ca8
 
 ---
 
@@ -22,7 +30,11 @@
 ```
 每天 10:00（台灣時間）
   └─ GitHub Actions 執行 scripts/fetch_news.py
+<<<<<<< HEAD
        ├─ 搜尋 Google News RSS（一中炎上、一中批評、privilege…等 10 組查詢）
+=======
+       ├─ 搜尋 Google News RSS（建中炎上、建中批評、privilege…等 10 組查詢）
+>>>>>>> d558ac6c0f2f8c4a8722092cbc9abb00d80b8ca8
        ├─ 過濾含關鍵字的文章，寫入 incidents.json → recent_news
        └─ 偵測到「炎上／道歉／撤展」等高信心度關鍵字
             └─ 自動更新 last_incident 日期，網頁計時器重置
@@ -64,6 +76,19 @@ git push -u origin main
 
 GitHub Actions 會自動每天執行，無需額外設定（使用內建的 `GITHUB_TOKEN`）。
 
+<<<<<<< HEAD
+=======
+---
+
+## 事件紀錄
+
+| 日期 | 事件 |
+|------|------|
+| 2025-12-31 | 建中生 privilege 論述在 Threads 爆發，引爆特權量表風潮 |
+| 2025-12-07 | 學生藝術展以 911 雙子星為素材，AIT 介入，校方撤展道歉 |
+| 2024-12-28 | 麥當勞抵制風波期間，學生揪團去吃並 PO 網炎上 |
+| 2024-12-26 | 校友會菜單出現不雅字眼，引爆性平爭議，索賠 13 萬 |
+>>>>>>> d558ac6c0f2f8c4a8722092cbc9abb00d80b8ca8
 
 ---
 
@@ -72,7 +97,10 @@ GitHub Actions 會自動每天執行，無需額外設定（使用內建的 `GIT
 ```
 ├── index.html               # 前端頁面（從 incidents.json 動態載入資料）
 ├── incidents.json           # 資料來源：事件紀錄 + 自動抓取的新聞
+<<<<<<< HEAD
 ├── icon.png                 # 前端頁面中校徽的圖片
+=======
+>>>>>>> d558ac6c0f2f8c4a8722092cbc9abb00d80b8ca8
 ├── scripts/
 │   └── fetch_news.py        # 新聞抓取腳本
 ├── .github/
@@ -93,4 +121,7 @@ GitHub Actions 會自動每天執行，無需額外設定（使用內建的 `GIT
 ---
 
 *本站僅作幽默統計用途　資料來源：Google News RSS、Threads、各大網路媒體*
+<<<<<<< HEAD
 *本網站與台中一中官方無任何關聯*
+=======
+>>>>>>> d558ac6c0f2f8c4a8722092cbc9abb00d80b8ca8
