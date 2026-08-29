@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "last_incident": "2026-03-25T23:00:00+08:00",
   "last_incident_title": "中一中宿舍暴動",
   "auto_updated": false,
@@ -33,47 +32,11 @@
         {
           "label": "自由時報",
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5383044",
-=======
-  "last_incident": "2026-07-23T00:00:00+08:00",
-  "last_incident_title": "自動偵測：建中吃麥當勞遭炎上！學長嗆醫學系封殺　他反擊：支持被正義蹂躪的分店",
-  "auto_updated": false,
-  "last_updated": "2026-08-28T21:40:56.769378+08:00",
-  "incidents": [
-    {
-      "date": "2025-12-31",
-      "title": "建中生 privilege 論述爆發",
-      "desc": "「建中生 privilege」論述在 Threads 上大規模延燒，大量貼文批評建中生以第一志願身份作為 social capital，引爆「特權量表」測驗風潮，自由時報、今周刊、遠見等媒體跟進報導。屬週期性復發型議題，每逢升學季或社會事件後再度延燒。",
-      "sources": [
-        {
-          "label": "Threads @agedsalmon__2012",
-          "url": "https://www.threads.com/@agedsalmon__2012/post/DSra4zYkujA",
-          "type": "threads"
-        },
-        {
-          "label": "Threads @ckpot2025",
-          "url": "https://www.threads.com/@ckpot2025/post/DSxUKLoksad",
-          "type": "threads"
-        },
-        {
-          "label": "自由時報",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5294612",
-          "type": "news"
-        },
-        {
-          "label": "今周刊",
-          "url": "https://www.businesstoday.com.tw/article/category/183027/post/202512310040/",
-          "type": "news"
-        },
-        {
-          "label": "遠見雜誌",
-          "url": "https://www.gvm.com.tw/article/127033",
->>>>>>> d558ac6c0f2f8c4a8722092cbc9abb00d80b8ca8
           "type": "news"
         }
       ]
     },
     {
-<<<<<<< HEAD
       "date": "2025-06-14",
       "title": "中一中科學班科展抄襲",
       "desc": "科學班學生科展涉嫌抄襲遭取消繁星資格",
@@ -81,30 +44,10 @@
         {
           "label": "Yahoo新聞",
           "url": "https://tw.news.yahoo.com/%E7%A7%91%E5%B1%95%E6%B6%89%E6%8A%84%E8%A5%B2%E5%8F%B0%E5%A4%A7%E6%92%A4%E9%8A%B7%E9%8C%84%E5%8F%96%E8%B3%87%E6%A0%BC-%E4%B8%AD-%E4%B8%AD%E5%A5%B3%E5%AD%B8%E9%9C%B8%E5%88%86%E7%A7%91%E9%80%86%E8%A5%B2%E8%80%83%E5%9B%9E%E5%8F%B0%E5%A4%A7%E9%86%AB-071320581.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAHolgxzgUQRg1L9r4p4jEJA33k2ZPnk1HoBZuygJLs7g3WYFbXHaTmL3R5-BXYoraQjO9u5p1VhmDrEstOy-V4xnhUDQbfup9dVxuuw753gX2feuIixNmyzq1o-lnmMQy05e6uDoiLNS1FwtrhtljESLf5Vldjj3hH2zpd5iqakI",
-=======
-      "date": "2025-12-07",
-      "title": "911藝術展爭議／AIT介入",
-      "desc": "學生藝術展以911雙子星事件為創作素材，遭民眾向 AIT（美國在台協會）檢舉，校方緊急撤展並公開道歉，承諾加強歷史教育。",
-      "sources": [
-        {
-          "label": "Newtalk",
-          "url": "https://newtalk.tw/news/view/2025-12-07/1008432",
-          "type": "news"
-        },
-        {
-          "label": "ETtoday",
-          "url": "https://www.ettoday.net/news/20251207/3079921.htm",
-          "type": "news"
-        },
-        {
-          "label": "自由時報",
-          "url": "https://news.ltn.com.tw/news/Taipei/breakingnews/5270544",
->>>>>>> d558ac6c0f2f8c4a8722092cbc9abb00d80b8ca8
           "type": "news"
         },
         {
           "label": "聯合新聞網",
-<<<<<<< HEAD
           "url": "https://udn.com/news/story/6925/8807268",
           "type": "news"
         },
@@ -116,20 +59,11 @@
         {
           "label": "自由時報",
           "url": "https://news.ltn.com.tw/news/life/paper/1716135",
-=======
-          "url": "https://udn.com/news/story/6898/9187611",
-          "type": "news"
-        },
-        {
-          "label": "中時",
-          "url": "https://www.chinatimes.com/realtimenews/20251207001593-260405",
->>>>>>> d558ac6c0f2f8c4a8722092cbc9abb00d80b8ca8
           "type": "news"
         }
       ]
     },
     {
-<<<<<<< HEAD
       "date": "2024-05-20",
       "title": "中一中畢旅承辦老師不當發言",
       "desc": "一中女老師針對台中女中畢旅性騷擾事件，在行前說明會失言稱「不聽話才被喇（嘴）」，遭學生團體譴責，隨後道歉。",
@@ -137,50 +71,21 @@
         {
           "label": "臺中青諮會",
           "url": "https://youth.taichung.gov.tw/DraftResolution/Detail/c0c3a1e2-0f8d-42c7-98fa-b50fffa605f2",
-=======
-      "date": "2024-12-28",
-      "title": "麥當勞抵制期間揪團貼文炎上",
-      "desc": "麥當勞員工遭性侵事件引發全台抵制風波期間，某班學生揪團騎腳踏車去吃麥當勞並發文炫耀，遭全網炎上，學長揚言「封殺醫學系面試」，校方道歉。",
-      "sources": [
-        {
-          "label": "ETtoday",
-          "url": "https://www.ettoday.net/news/20241227/2881994.htm",
-          "type": "news"
-        },
-        {
-          "label": "CTWANT",
-          "url": "https://www.ctwant.com/article/386000",
->>>>>>> d558ac6c0f2f8c4a8722092cbc9abb00d80b8ca8
           "type": "news"
         },
         {
           "label": "聯合新聞網",
-<<<<<<< HEAD
           "url": "https://udn.com/news/story/6898/7976900",
           "type": "news"
         },
         {
           "label": "台中女中學生會",
           "url": "https://www.facebook.com/share/p/18WULY32ek/",
-=======
-          "url": "https://udn.com/news/story/6898/8454488",
-          "type": "news"
-        },
-        {
-          "label": "中央社",
-          "url": "https://www.cna.com.tw/news/ahel/202412280079.aspx",
-          "type": "news"
-        },
-        {
-          "label": "NOWnews",
-          "url": "https://www.nownews.com/news/6623769",
->>>>>>> d558ac6c0f2f8c4a8722092cbc9abb00d80b8ca8
           "type": "news"
         }
       ]
     },
     {
-<<<<<<< HEAD
       "date": "2023-04-29",
       "title": "中一中烯環鈉海報爭議",
       "desc": "中一中園遊會「烯環鈉」攤位涉歧視原住民",
@@ -193,35 +98,10 @@
         {
           "label": "聯合新聞網",
           "url": "https://udn.com/news/story/6885/7139175",
-=======
-      "date": "2024-12-26",
-      "title": "校友會菜單性平爭議",
-      "desc": "校友會活動菜單出現「硬拚雅美碟」、「香鮑佐蘿莉」、「韓國妹子軟綿綿」等不雅字眼，引爆性別平等爭議，班聯會緊急發聲明切割，校友會更寄存證信函索賠 13 萬。",
-      "sources": [
-        {
-          "label": "聯合新聞網",
-          "url": "https://udn.com/news/story/6898/8437777",
-          "type": "news"
-        },
-        {
-          "label": "CTWANT",
-          "url": "https://www.ctwant.com/article/386150/",
-          "type": "news"
-        },
-        {
-          "label": "自由時報",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/4906914",
-          "type": "news"
-        },
-        {
-          "label": "中央社",
-          "url": "https://www.cna.com.tw/news/ahel/202412280136.aspx",
->>>>>>> d558ac6c0f2f8c4a8722092cbc9abb00d80b8ca8
           "type": "news"
         },
         {
           "label": "風傳媒",
-<<<<<<< HEAD
           "url": "https://www.storm.mg/article/4786376",
           "type": "news"
         },
@@ -338,9 +218,6 @@
         {
           "label": "監察院",
           "url": "https://www.cy.gov.tw/News_Content.aspx?n=124&s=5628",
-=======
-          "url": "https://www.storm.mg/lifestyle/5296835",
->>>>>>> d558ac6c0f2f8c4a8722092cbc9abb00d80b8ca8
           "type": "news"
         }
       ]
@@ -348,163 +225,6 @@
   ],
   "recent_news": [
     {
-<<<<<<< HEAD
-=======
-      "date": "2026-07-23",
-      "title": "建中吃麥當勞遭炎上！學長嗆醫學系封殺　他反擊：支持被正義蹂躪的分店",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04VGJWdDNCRnBZTS1uOXRBU1p5OE52RWk2WENpeTJ4S293VVBtMkZ2OWNURUktdDFZZUZFZ1QzeDU5dTdyN2tFStIBTEFVX3lxTFBfZ1BEX0hTRXk3XzNqWlZHRUY4dmhreFFHa3VGb1FpX2lMX0x0RXB4Qm5PUVp4TVY5eWN6bkZ6eW1xYlhKRG9YVUJlVUQ?oc=5",
-      "source": "google.com",
-      "high_confidence": true
-    },
-    {
-      "date": "2026-07-10",
-      "title": "建中生吃麥當勞遭炎上！網怒批沒同理心　校方緊急道歉：學生已深刻反省",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Vd0FmZmYzRXJZbzl4UmVILWIyZ2JaeUI0N0ZncUdUU1ZoLWhzbVRLQ0JTd2g0SVNXQklDT0RWMDhlbmZiSi01btIBTEFVX3lxTE9xZl9Vakp5Vy1HUzFuMEpRSkM0Z29QN2Q1Y1FDZlUzdlZpdENGcDEtemFkSmxoNWNmck5Wd251RHpuVUVwVHB5MGpPYmo?oc=5",
-      "source": "google.com",
-      "high_confidence": true
-    },
-    {
-      "date": "2026-07-08",
-      "title": "名校蒙羞！康輔社拍片「揮刀飆國罵」挨批| 生活",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBqSV9VYVlpbUR6WmFQUERwcEwzRWNOWXhfY2Y5Q1ZpNk5KUFhQSUFaeC1tem5yVmlnVUJpeU5paTVibmJmTDJB?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-07-08",
-      "title": "這是青春！建中生假冒受訪爭議老學長挺學弟：我偷過船| 生活",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1KWUhfX2d3dmtaRjNOSXdOZDA1Rmx2OFB0MWh1d0xxNW9JZmM1RnVzYXF6OVEzSEJ1X2tiWU91S0R1d205a2dV?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-07-08",
-      "title": "「沒有建中學歷」郭宗坤發聲明道歉　坦承虛榮心作祟",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB5ZTBOc3llRkNpT1lVLVJwM3FNNGc0RU04bkdrUlFjZmhnTW1TZXNIQm95dDFmdWZRTExtQ05ROW0ta3ZaUzEw0gFLQVVfeXFMTXMyQ0N6MzBlSnozTVhjRE1jWEt2a2JOOWNtTWdoNllTT3BRUjVCUXJwS0VPSWZma01WNTdYeFRMU2txYUJPb1NjTW9j?oc=5",
-      "source": "google.com",
-      "high_confidence": true
-    },
-    {
-      "date": "2026-07-08",
-      "title": "建中校友宴菜單引戰！北一女大學姊怒轟「物化女性」無恥　要求公開道歉",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43NmZTam9GbVN3RkZFd254SDFyRXNNdERYWUthWjRLektjUUJQQXUxcHRKQlhqeElQSnF1bXpoMzNwZXVlaTZ5bdIBTEFVX3lxTE91ME9RLUZqdngtdGFPLTVjeFp4UXhjcU1qSkRQQXhzT3RtMjhTVy1RUHVaVmdZaUo5RHkxVl9xOVJqMjhCcEd6WkdGbmw?oc=5",
-      "source": "google.com",
-      "high_confidence": true
-    },
-    {
-      "date": "2026-07-07",
-      "title": "各界看法／建中生假冒受訪爭議 老學長：人不輕狂枉少年！",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE84ZHllREZBY0lYcHhYVGZ4emJnRVYtMU9JR2s1UUhnWElnV0pjTzgyaFY1aS1ISEV5RW9LcWpNYlc4Q256QVpr?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-07-06",
-      "title": "老師嘲笑幫農小孩挨批 農夫爸爸：是我們會錯意！",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1taDR1UWVrNnE3MFluRjg4TDRXSEdwb3BRd2ZIRE9rVm5QT1dGNXRieDhFZEV1QzQ5OWgwTHhKM0JYLWcyWnNv?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-07-06",
-      "title": "「民主」發言惹議柯P勸建中校長：對別人好就是對自己好| 政治",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1zMUpDR1JqSVJSVGpEY3FxeGVZckRiMkpNbWNHdk02LWYtTFNTejI4aERTVUxvV0p2M3lpblZjUXRtYS14b0pB?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-07-06",
-      "title": "中工建案銷售挨批灌水！雲宇宙賣75億實登卻僅2億　小股東憤而具名檢舉",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mUFlzLWZldmRNNFBVZlkwZEhadWxCaE93UXBmT1BqVWF5aUxDTmRjLU44ODNDaGRjSU1sTWZ2NHJWVGp1LUU1UdIBTEFVX3lxTE5nb1dYM3c5U3Y3SURvOXlRZzZOMmdrdkJKSEZocGZmb1g5ZHpibjFSX2NXWEYyZV82Vmp2UjY2TlZNbkRFRVFTSDl2OU0?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-07-03",
-      "title": "台東博覽會動畫AI生成 不符實際地景挨批 縣府回應了",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xS0FHSTQ0V0VGS09kSV9KMVQ2cW9CVHM2b3lLRHRaMnUyS0FkUEZVWS1wVHRmcHNyZ0NhX3NKSlpYeERER1VsY29wcF84bC1lelpBYk5xNWdXMUlCZlc5TDlKV0FhNFRWT08tcW5n?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-06-24",
-      "title": "icyball 冰球樂團入圍金曲獎！和五月天爭議、建中畢業、團名諧音梗⋯5 件事一次看！",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00eXVHN3Q3ckdtME1lRHItN0o0bHMtVFNCcFVEWFJJQm5QVnNNS0F0eXpsWFRYY0ptUjdsVVZEN2thYTV6MXJaQjRFYmU?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-05-29",
-      "title": "加味菸禁令挨批遲未上路 國健署：檢驗機制建置中、盼今年公告",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84SWN4TnlySHpYVEFlRVp1clFtR0YxUzZ3Q1Jwc0RUQ2J4Q1Q1WENvQkZRcnFfaDBSOXVPa2Y2M0JTY3UxSldJcGVwX0xmRU9BU3hYTk1Rc0V1c0hBX0VURHVKcDnSAWpBVV95cUxOMDh0UXl0ZGstaHM4SHUwekZhZ19mNUR4YkszbkRuVUtaRlhBbHhJUm5mWk9idy1tODVXenVIWWRvUDlpc0pTTWpLUEpodFZVRi11YjVwLThoTURoVWNvYVRaNEIxOTZaLVFn?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-05-30",
-      "title": "基隆建德國中泳池爆疑氯中毒多學生不適 挨批不適任校長聲明還原經過",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tc2E0aVdPMjREVFUxVk4ycDI1YnJSX0hGME1kbFl4bHhZZnZSMThnSGx2RzFMU3d4c3d2cm85a1BuZDJMcVhnU1NZaS1FM0pQ0gFWQVVfeXFMUFhjaHVSby16TWhUeHhRZzVLb3VwdThCQlBFOWtpb1pETEVIQkpUcWtFcGdCUF9OdzdMUjg3dnRBTmJlWjRzeEczdWRXa05UWHVpMEhrTGc?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-05-29",
-      "title": "加味菸禁令挨批遲未上路 國健署：檢驗機制建置中、盼今年公告",
-      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOU3RkaXcxWTdzdWcyYmNmejBEQnUzVUFwRkFSVXY5bjJSNkpkcTItbjRpM3Zqdl9XQVNjWjJjdTJXdEl2c2ZLNU1OUHNxbkRMUkJuN0lLR0pUN3ZKNmZqYURyTzlvUlRNeTRDbEtnWUhiVC0xR1JaQTU0Tld2TVBvLVV1QWxsVElabHd2N25sMVh0TF9qSlRlbzhPdmVCUlBvN3hhMnhKQlBtNDdYekZtMkNvb200czREOGpLTWJyVE9KZmJFWm42M1dOenQ4RTNWVGVrMGs1dHdxblZUUkYyTTBUVzh3NzhWMmF5RW9lUGI0c1c5Qk1fWWhaUGlWNHhmM3o2WFp4cEE5cER3S09JYklIUUlySklfU0FfazVnek0xcVNKOEFfUU1zUHY5bUJJMm8waGtaQXl0S2N1eXZxWk9SRThKeGp5NWFPTF9ZMXMtMG16dFZEeDlnREs0MGgzd2R1Z2t2cEprRVpveDhDczZ6c3Jsb1hLQmwzV0RVOFhHTWc?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-05-27",
-      "title": "穿北一女制服熱舞挨批「文化不該被表演」 李多慧：沒有不尊重意圖",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtdXhQTGhuaHFKbjBIUUVERnFkRGxQZUVNQVE5a3ZxbW9QN1NFT1lEdldjSHJlajNmX3hxT3dud3ZfQ2trZUNSUU5jRm9BLWdpc2JidlB2M3hpVjVmUGpDaVBn?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-05-27",
-      "title": "李多慧穿「北一女制服熱舞」挨批！校友提三點質疑 本人回應了 | 江勳紘 | 風生活",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VSEdRZGliQUM5dHk2OGViU0o0ZFdfWkxQc3dTY29vdktjd0NYLXY2TFNkeUJMbVJsU1dUX0tkX21NckJrOTBXa0t6NEk2Rzlp?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-05-27",
-      "title": "李多慧穿北一女制服熱舞惹議！校友開轟「我的生活不該被你拿來表演」",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qdFFkbF9tWGxvVm1hd25rUWJpWUdBb2pwVGxUOHBCaWxzLTFqNDFuNXg3Z2lWbjFsYWhJck00OFJjMlZlRnI3cmhkdUdsRFJNQXlOalZMNFB5MG10T0E?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-05-23",
-      "title": "建中生作品玩地獄梗遭炎上? 911雙子星當素材驚動AIT 校方急道歉",
-      "url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNYlYyMElUZmJGaW5SSjRnUVpXOXI0MEcxQXl0VjVBOFdMZmdSZVc5V3RWYko2REUwMTZfX01RSTdyT19RcmJfamViTkNITVc5eGVZWGRyVXhMVEZmM1VwOG9YWHJaTi1qaHBzODg2VFBPeDlSVWhvMUlaQU0xLWpBLVNmdzBEMjV1bi1mc2lhdGc0Y0pSaTRsUVRxelpVZTlmWU5MV1BfdFRxRm5MQU56dUVpOThqTUotZngwNTZ0aW1BVkE5OGh3VzF1UzNSTXJCdVBkQlpOeDJVS2pfVTRKUFlWd2x3OHFOWVJ5blFUbG5QdFFEaWEzaW1hcHJQd3g3d3dpSkFjbDZ2OHdfRk9wLWd5blI5bHFLZEJsQVNKUVQwRFVVZVp3dHEyVU9faERwenljUVRzb1g5VnpEeEFwanVORlllY3QxQVBMOVh6STZReDZVa1Z3dEkzTzNIMVp6VDc1Um1FZVBHQUlTSFhmNExMc2RMTEptb0Nrd2dkY2JVT1pMTXdRMTZ1VlNFM25UTVF1OG5BVW5Ha0Nmc1QyWTBKSk56TEN1ek9yODYzcU1hLWM3M0hzYXVCTUtzNnExT0NDSVQ5Q281MHdreXBMQ3kybENhQ0JHdk1fTDNoNENOcDhBM0R5U2ZKejlPQ213cDNtdVptZzRHNHBHbFZHUUJWb29Vcl8yQVJkTlJSVVpSYjd2VnY0RjNpRVBzdmR3SldoOFVoSjN4UlZrenc?oc=5",
-      "source": "google.com",
-      "high_confidence": true
-    },
-    {
-      "date": "2026-05-14",
-      "title": "違建拆除假牙補助惹議 市議員詹江村呼籲市府嚴查",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Ma01nYWFWMUxiZWIxNk1sNDRkaDZNcmdHWjNOWmZJZ1U5YnQzNzNpQjRQZW9NbF9XMVdjalBIWm9qbUNrV0lpdTFiU1k1MlcxX0E?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-05-16",
-      "title": "中職／不是殺哪壘的問題！許庭綸美技挨批 葉總看爭議點在「傳球高度」",
-      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPcUhSaUpYSmY5eXk0cVNmWXU0eVVQZm5KU21SQy1ybmEzS0ZHM0FWOFNNWFhadF8tV1hjWXJPQ0l1aFRncUJmaWtzZThCdU9Sd0V0SlZFZjFZWUxRNTN5NVRLb1l0Ykp6SDBDVmR0dDBHUWozc2VVVVhQbmFOczQxMnJnVExiaGUyUkVLeXlEZDQ4eEFCYzRVRzdOTF9mNnF3am9JMWptZGxwU0doOHBRaHQyd21WNzZHblk4RXhuNnBwbVllUk1qVEVHbnJheklySmhxTkd4emNjSXB4blNJM0l4ZVRIa3dOZWhZZHZZb09RdDVBbjFaVGIzRlFJQmVPSERYRzlHT1pSUk5NV0kxbzJycVRsQkhVWGhPRDRsejJLUThySExsZ3FmQ3FZR2F2SlBiT1V1VEpjdlVvU00zTlhibGJiZGwwbkNUY09HOXFHYXppTUdRNHRPUWo0ZUJsbnpzaVN6RmVZUzlDN2p4blZha3dZeGRUYlFhM1dtOHNEUmpyWi01RW5VVkRqc2Fxak5VQnNfWm8tTlQ4Q0pGMHJHMWV1U3JTelA4S3plM0NuUQ?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
-      "date": "2026-05-13",
-      "title": "2026大選》民進黨提名沈伯洋戰蔣萬安 台北市政缺失挨批：只知用OK蹦敷衍止痛",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1obk53OHduOFYtWVpQaDJyUEpIVHI0dmlvQkZtdW9HLWZHMTMzbWd0bUM0YmEyVXBXdS1IbXk4TTJuVU9xcjFyb0F4a0NCQTJqTGpMYTJlUDJDQQ?oc=5",
-      "source": "google.com",
-      "high_confidence": false
-    },
-    {
->>>>>>> d558ac6c0f2f8c4a8722092cbc9abb00d80b8ca8
       "date": "2026-04-24",
       "title": "讀建中就是一種特權? 他曝「成就不會努力就得到」： 有優勢不可恥",
       "url": "https://news.google.com/rss/articles/CBMijwVBVV95cUxPQ1lqQkdMNUZxMkFydVQ3QXFvNlBia19TOXlWUGtfZDc4aG5hRWdQcnRiQ3JUT1JJa0JFM0NrV0w5YjVqUVk5aW5BSENhTk1qZzUzNmdoNlFQUk9aUEFwMnFMc01oWGh1b1gzMXdlYU5IMWdoUThzcW5IRGNNQWN3cWZ2aGRQTUJIZG0yemVUdG5FbXFwczhyQ0FhcVVSOVdvYWE0SUlqVlk0SWNXRkhiaWpZSkYxV29vQUxNVTI5R3FZZGVCci11MEdJa3d5UTZsUmFHaldaMXk1ZXQzdVQyTXhpWFF4SGNvN0JMa2NpRmFKX3gxMG1SQ0plQU5LVGl4aUJ5VXdFc2phbVJINDhGVWhWWFJLOTlIWTR3Sy02WjQ1TlNsZFJ4MENIUXUxMFpzRFl2bjZ5ZVMyMl9XcG4zOTNvNDQtNmJCV1BLV05EUENveGFHNjhqRUZfQzVsQ0FBakdOYklDRFQ1RWk5S0ozNXdlQVM0ZnliUFBxTHlNMHY1eFFzckhFMFlXVEVUMVhWb1ZfemQzcnJFUV91MjN0YWE5VERRQlhQOEVjZ0JYdkZidlRTaVlrMy1ncGVGejBvY01QcHZDWGhIUy15c1Y2RmYwek1NLTI5Q2w5M3BBMXNZWGFnTEI0UzVNRURQWWdZNm1PNUtKdFY0SjF3UXlHODVaUWYtOWF3bmViSXBrQXQ2LTZwQ1BPV0tEUTRNYldiZkFYWnNaX0YtWWdzMllXVXZ1UTlfeG51T242cVozNW0xTkJXeVdwT3VhZ0I2M3VBWGxxVHJ6RzVZMHRyU2hBU1BnWTE0Y1p3U3hKZkRDSTBRdWJJdTloaFg2VnB5bGVCeGZrNUJnZEdaQVc0U3dZ?oc=5",
