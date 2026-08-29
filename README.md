@@ -4,7 +4,7 @@
 
 專案參考：[建中炎上計時器](https://github.com/Frisk0316/CKHS-burn-timer)
 
-**[→ 線上版本](https://mura-0721.github.io/tcfsh-burn-timer/)**
+## **[→ 線上版本](https://lf94878964.github.io/tcfsh-burn-timer/)**
 
 ---
 
@@ -93,4 +93,7 @@ GitHub Actions 會自動每天執行，無需額外設定（使用內建的 `GIT
 ---
 
 *本站僅作幽默統計用途　資料來源：Google News RSS、Threads、各大網路媒體*
+
 *本網站與台中一中官方無任何關聯*
+
+*本網站原帳號被 Github 肘擊了，所以用備用帳*
