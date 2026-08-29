@@ -27,7 +27,7 @@ log/
 *.json
 *.txt
 !requirements.txt
-*.md
+
 
 !data/quote/*.json
 !data/cooperate/*.txt
