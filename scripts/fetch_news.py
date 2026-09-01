@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Daily news fetcher for the CKSH burn timer.
 
-Searches Google News RSS for 建中-related controversy coverage,
+Searches Google News RSS for 一中-related controversy coverage,
 updates incidents.json with new items, and auto-advances last_incident
 when a high-confidence incident is detected.
 """
@@ -23,16 +23,16 @@ except ImportError:
 # ── Configuration ─────────────────────────────────────────────────────────────
 
 QUERIES = [
-    "建國高中 炎上",
-    "建中 炎上",
-    "建中生 爭議",
-    "建中 道歉",
-    "建中 批評",
-    "建中 privilege",
-    "建中 特權",
-    "建中 挨批",
-    "建中 惹議",
-    "建中 性平",
+    "台中一中 炎上",
+    "一中 炎上",
+    "一中生 爭議",
+    "一中 道歉",
+    "一中 批評",
+    "一中 privilege",
+    "一中 特權",
+    "一中 挨批",
+    "一中 惹議",
+    "一中 性平",
 ]
 
 # Any match → add to recent_news
