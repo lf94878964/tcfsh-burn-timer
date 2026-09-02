@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-03-25T23:00:00+08:00",
-  "last_incident_title": "中一中宿舍暴動",
-  "auto_updated": false,
-  "last_updated": "2026-04-25T12:24:58.186965+08:00",
+  "last_incident": "2026-09-02T00:00:00+08:00",
+  "last_incident_title": "自動偵測：台灣館惹怒中國 光州市道歉 稱尊重一中",
+  "auto_updated": true,
+  "last_updated": "2026-09-02T14:51:27.819945+08:00",
   "incidents": [
     {
       "date": "2026-03-25",
@@ -224,6 +224,118 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-09-02",
+      "title": "台灣館惹怒中國 光州市道歉 稱尊重一中",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TN2ROR0VabS1BanhJQW8tUDlSYXBabEpNVnRwQ2puNUw5cXNKWllnelkwazdhUlFKVGhpeVJ4THF1WEF2SHJTU1ZHU3BESW1NY25oYWxB0gFWQVVfeXFMTVM3ZE5HRVptLUFqeElBby1QOVJhcFpsSk1WdHBDam41TDlxc0paWWd6WTBrN2FSUUpUaGl5UnhMcXVYQXZIclNTVkdTcERJbU1jbmhhbEE?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-09-01",
+      "title": "准用「台灣館」激怒中國！ 光州市發道歉聲明：尊重一中原則",
+      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPeW5VTVliQ3I4cHBucXZVcUJfNWhSWUU5empMTEUyN3B6TnQ0NTdFLW02bjd1QUJpWXcyZUZvY0RPWHhPYnlqcGgyMVhVZjJTLUZqa0h0MzBRTmlwT3JuSFNpVFktSWJsZWdEazVhZHN1aWp4Q2ZmR01FX1VxRndGZlJGVFUwMXpwWEZVSFE2dHZyQTd4SzhjMnR6RmRZZ2NmdF9YSmdYbnROdm5PX083aDFVZzJwd2JxaWlUc19VOFFUVzlTZWRaUTY2djBqcU1xb0FabHFOOEZBRUhfak5yLVJUcjMycGZiVk91bEFhZHdHRGE1b2NwYlp0VUxJRWQ0SEFtRk82YXZFaE5zYUtpYkJOdUt5LUFZekxHY2c5YlI4TXRpWnBYWjJtM2lOQmVVZ2h1NFF5ZlBnSlVfaFhZSmtoNW90QTNSWjZ0NllLa2lkS0VHZmZRd195TXJLNGRjWUxEZTNIVWZKQTR3TlNCOXJXeVgzV2QwRkRYbVRR?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-09-01",
+      "title": "才恢復「台灣館」就遭中國抗議！中國施壓光州市出面道歉 尊重「一中」立場",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56emI3OTJ2aUdhWWp5XzlYSVl4emhLREZKVzNQTVVkc2RUb2FQQ3FISlYtTmpEdjExRVA3VTFHbWV6dmd1UW1ETUZhLUtYNWZBb0NobmVWVXF4V3RTaEJ4ONIBZkFVX3lxTFBWRjdPZ2R0WWtHOXBWRGtXMEhIa0VhMEZFanJfX0xhaV81TXJRRFd2TGhva0EzeTJacnBDWE10TE1LS3k5UDdFUG5USDhpNEtBM0hRME9UY2RObXk1LWtwN09mQ1hZZw?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-09-01",
+      "title": "台灣館命名惹怒中國！光州市政府喊「尊重一中」公開道歉 展方：仍維持台灣館名稱",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50TFBrTkFfT2hyNC1HWnhRaDRiV0l1SlhRT2JxUU44MGFOaUxMUVYxang5MGdhNEJGX3dTSkFCNUJDYTJWR2FjY01Dbw?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-09-01",
+      "title": "雙年展爭議 光州市道歉稱尊重一中原則、台灣館為藝術表述",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43aXczTEVZckx2Zkw5OENRMFN1bE9iVUpTdVhvUDlQWDdKRi1xUE83QllaNVE3ZjdmMWIxQXVfQ1RBaE5XZUg5UjRTWUlhTGJsOFFENzBjdkZxM2UtTDZRaDVPZEhqcUnSAWdBVV95cUxON2l3M0xFWXJMdmZMOThDUTBTdWxPYlVKU3VYb1A5UFg3SkYtcVBPN0JZWjVRN2Y3ZjFiMUF1X0NUQWhOV2VIOVI0U1lJYUxibDhRRDcwY3ZGcTNlLUw2UWg1T2RIanFJ?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-09-01",
+      "title": "不認台灣是國家？光州市向中國道歉：尊重一中原則",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa1RCdTNJWVJaNURWa3VtMjgweldsMUFqbjJ5QTNHX3dFREZ1NUhPejlyMl9NWF81bGExQ0t0REhhZldNQjBfU3M0aXVfVmpmUE1FWFRvdDBzbWxOZTM3RG5XamtuanZtUTg2WWoxR19yZnBzZ1NXYWZsUWJsenpkYkxYM3NhcF9zaHc?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-09-01",
+      "title": "准用「台灣館」激怒中國！　光州市發道歉聲明：尊重一中原則",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qWFd1bW1RbmZ0Ty1OcHdhYjA1UzU1VGotbWladFlNdFNVZ2lyblp5VGJiSlVJaUxnekpScDFZeUdzdF9lUkJES2tyVzZMNjd0dnZKOFdWcDV3TVZqZ1HSAUtBVV95cUxPRG1BRGFuVEtSZ0pCQThsVVlXWmlQUk1BX3MzT2VDMGtHVy1sQVNxdGdNVDFNeGI5di1wamFzc2VwbWtYQk1HNWpNUTQ?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-09-01",
+      "title": "「台灣館」3字惹怒中國！中方氣到撤場　光州市急道歉：尊重一中",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zUkFVNW1lb2NxTjBJenNTaDdkQlNVWnlsekdtYmtJT0lkdV9qcW83MU94X0puVF9fZ3FsdHp2UFRreEE2eWpxX2Jab1_SAVJBVV95cUxPeGttMllZOVBUTWEwZnhOTkVZX193bUNURWNPekdDWGEzYTd1SEd6X2R1OGJRaVh2cDBFNzU5alNhRTBYLUFZT3JOckNBdHRaVjVR?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-09-01",
+      "title": "光州雙年展台灣館惹怒中國 光州市道歉強調尊重一中",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RT3c3dm5YZThDT1VHME9RMzVuaTdUSWQtRHJjblN3RjBHcVBVSUtPWEktZmxzdXpCYWZ5bGgtV3dIakhydEdfY2dnUllHYzVk0gFWQVVfeXFMTUdjckp6X0dyMWwyajUyb1phYjBEcGRScU9LMkZJSEdqbllfZlFvamVydFZTQThpRTN4b2xFeFlmVWgwVkRKb3JFUllxQ1cwLTJkQUJVNGc?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-09-01",
+      "title": "雙年展爭議　光州市道歉稱尊重一中原則、台灣館為藝術表述",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTEhqSjlLc3NjRTFaMVQ2bmVPSDdpTVV0QktXMlhteVdub3M0YUY0Z2Y1cVNGbEFsVng1WWhkeHFYbzcxeklWRWp1c1NUVlJ5NjlqalRObVJuSWpfSzRYMVpUdGsxbWlUcGg3N0tWR29sOWE3VGs1UnJiYWFvNnpvTtIBX0FVX3lxTE9jXzJiSnBWSjN4Q3AtWUhFN0VwUWhWc1JtREJ0cEFsRUpnelBWWFcyNnZoQWZFTTJrMjhHeEpDbnkyenpBSlV1bEIzM0RKNlRGdlJTYnFHOUJ3ZXZYTDJ3?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-08-29",
+      "title": "台中一中新校門「閃亮亮」 挨批：像八大行業門口| 生活",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5fU1piTEtRQkJ5YzVZQWVMM2FqMjVsYnM1VVdiVnZPd0tCdm5KQ0pfRnB1MUVwRzhlS21NVmlncVhNQ1pENjJN?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-08-21",
+      "title": "大馬首相安華挺陸武統論惹議星學者：未來對台施壓恐引為依據",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HVF8zQmd3M0tyRThLaXpxeVRHcHVDS1l4UVYySjNYaVlGb2lZcE5rSEVYTVR1dWJvUklGeTRkS3lDNHRfc1JvdjE0ZGhPVmZQbDJja1FwcVFDbEFWcWpBUGFxSXBITTJiYUE?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-08-20",
+      "title": "武統台灣言論惹議 大馬首相安華重申一中",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNYXdyTkp5TDVwRU1aSG5QYU1XelJVSVBvV3NoWmNYSmgyLS1QTWQtRW90T1VYLVltQ2VrWmk0Ri1SNElOc1NUbDJLaEYxT25TejNWTEJaSUI1THoyTmNfWE5pVlZWSGQ3Tjh2SXpmMmxQaUNPNEhNbE83THJ5N3dwQTBEY2tUdjlnTENxNHV4UVIxYVhXakhWSTRlMFEyLVplYXJlUkplV1VXNU44d001SkoxTnBvelVvd1R3Q2lXcEdCNTZEc21JbkI1NDJoQVpHMXFhZDVOc1QyWDdtamYzZ3VqQjZlaGhXYllnU0FiNDBtN1lNQXN1Qy11WUtUS0tnbEJEZktra0JnVy1Iam8zbUpMbjNTZW50aHpWcEc5UEZ2dw?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-08-20",
+      "title": "安華涉台言論惹議大馬政學界質疑背離長期對台立場",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JZlZkQ1lpN0hYY1k4WVNDTkdxcVA0X3dyaFRnNDZ5UXJGc1FVQWkwM1VMNVlBcGxGYlE4b052eEFtTUxoZHlIMG14WTlmMHBwZThKejZaZw?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-08-20",
+      "title": "回應支持武統爭議！安華：馬來西亞支持「一中」立場從沒變過，希望台海和平解決| 國際中心| 新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ycmQ2dnJ2dkdjZjJzZC1GcDc0UHRWUExRSVZnNWQ5MWlkaHZvM0FTekd2NnhYblBFUk90SmJ0THF4V3NUMjVpZkI1WlhjQQ?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-08-20",
+      "title": "武統台灣言論惹議大馬首相安華重申一中| NOWNEWS今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ0NSbXZydUlKYnZwOVNHVEZVbUN0ZEk4NzNGQnZwLU1tRlJ6ajFnMjc2VUNYQkgwd1FkR3Y2WUFYTnRSM1dTSkxjeTZGOWZnU3FqVWMxMDVJZERRcE1fenJyWWptRHV5ZDBvR3JJM25xT3Y3Tk82SkY5WkhPMFMtdkEySQ?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-04-24",
       "title": "讀建中就是一種特權? 他曝「成就不會努力就得到」： 有優勢不可恥",
