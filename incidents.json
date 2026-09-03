@@ -1,8 +1,8 @@
 {
   "last_incident": "2026-09-02T00:00:00+08:00",
   "last_incident_title": "自動偵測：台灣館惹怒中國 光州市道歉 稱尊重一中",
-  "auto_updated": true,
-  "last_updated": "2026-09-02T14:51:27.819945+08:00",
+  "auto_updated": false,
+  "last_updated": "2026-09-03T14:55:04.960256+08:00",
   "incidents": [
     {
       "date": "2026-03-25",
@@ -224,6 +224,69 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-09-02",
+      "title": "蔣萬安之子蔣得立錄取交換生被稱特權 她嘆：名人小孩不能優秀？",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5saFZ3N1V5WFllMkpEY3dFODNCOWJBQjVIQXRjYkcwZ01PX0dWRmUwYWxHY0EyakYxRHB1bG54bzlpVUdUWTR3Smc5Q3NxYXNBaGY40gFYQVVfeXFMTTVfT0xsZ1FNQW1hYzVUd1ZheXozemtSZVZzc3JUZUhzYXc2NktzU0pYcUo0d3pGUmZtbGdsY3M4QnJHZEZNNzF3RXVUMmFJanpqMUZvc2pFNA?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-09-01",
+      "title": "「台灣館」惹怒中國 光州市道歉：尊重一中 | NOWNEWS今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yYXZfbkVWMWhkSkFIMlJEREQtY1pRUmtEVWFZd0tNd0kwemFrLTNpa1lLaWFkNmQ1XzF0S0ZCbVNxX0VqVTRjV0R6WGJqUW9iV3R4d2NB?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-09-01",
+      "title": "南韓光州雙年展「台灣館」正名惹怒中國 光州市府道歉：尊重一中",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOV2pWZm5iSUpaMmN0NE54MW4xS3B6Y092YzdleGxLWXdxNWNFYzBLZEZwV3Qtb2ZSdXlVdU9vbHdrd2dhR1A2N1RMdzU0aG9QbGs4X290b28yemZaTmY4S2hn0gFnQVVfeXFMTzRibjRfTVNENDlmb194WmhOaDZCRUk3TWFrMEpPdHh6T1Z6eU9EdE1IWWZqZkYzbFhubFZkM25oOVBCYS1MOXZic3R1TkhqY0YzdFRYU2g3dEptVnhsUmw0Wl9IX08xdw?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-09-01",
+      "title": "光州雙年展台灣館惹怒中國 光州市道歉強調尊重一中",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HY3JKel9HcjFsMmo1Mm9aYWIwRHBkUnFPSzJGSUhHam5ZX2ZRb2plcnRWU0E4aUUzeG9sRXhZZlVoMFZESm9yRVJZcUNXMC0yZEFCVTRn0gFWQVVfeXFMTUdjckp6X0dyMWwyajUyb1phYjBEcGRScU9LMkZJSEdqbllfZlFvamVydFZTQThpRTN4b2xFeFlmVWgwVkRKb3JFUllxQ1cwLTJkQUJVNGc?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-08-31",
+      "title": "特權？ 蔣得立休學赴美加交換律師揭「僅25名額」酸：我爸萬安",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hOXU5RFF5SV9kU1prMlVjXzlfWkdranNFR2pwcW5QM2R0RE5aQVdBRnFOLVR3NnBLRk5ZaDEtZWozZ3kwakJCb1h4ZkliU29DOVlSRGd3d29tekJGMUY4ZzJXeVNzQ1dudXc?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-08-27",
+      "title": "公投票合併印製挨批「餿主意」 民眾黨嗆游盈隆專業傲慢、政治操作| 政治",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sOERnMWJ1b2RSMFRpaVdZZTJORVV3YkV0a2VkWmZreHpPY1lMY2k2ZDM5OEcyUTM3WEJzdGI4aHNDUkJyelo0Qjk3NmJiTlgweVJDTXZrTFJJT2s?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-08-24",
+      "title": "才爆紅又被炎上！韓女團RESCENE「一行為」激起反日情緒真相還原了| 三立新聞網",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdF9XaEp0T1J2TWN0ZDdnM3RlN083Ui1rT1R1U1RkLW5KdVpXZmxDdzR1cUdlQkYydV9xOFBQYUdVaEVpS3dFTjBFMEw0TDV0LXNfNFBpZjlMZ01qZXM3TTZocmtwcXNUZy1VbG9oU25zelhXbTNsZVJwZjMzZS1HX0g2YU5Jdw?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-08-22",
+      "title": "安華武統論惹議大馬學者：華社再挺中未必埋單北京對台立場",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wY2VRX0lNMG9Hb3Fnc1Nhd0VUZW1HYnAwNDNKX21xY2ozRzhoWW9BOXMwS3k3X01SVkVHYzhiNXRzRUFyMzJwR3hmbWlJRGdoejhoa0JEeTRFVWNiTkxJ?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-08-20",
+      "title": "武統台灣言論惹議 大馬首相安華重申一中 | NOWNEWS今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2SU9HaG9ZMVBNLXdiY3h5d0dZNkxlWldWaU9HVmFHNk02Y0t4ZDRWa1RHN0hLbUVqWk1kaEV2OFJqRVpheS03YjdLYXRqVTE5MXF1LVR3WUtZZ2tqWGNNRk5QYkQxN2k2UGJ2WWhINm4?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-09-02",
       "title": "台灣館惹怒中國 光州市道歉 稱尊重一中",
