@@ -1,8 +1,8 @@
 {
-  "last_incident": "2026-09-02T00:00:00+08:00",
-  "last_incident_title": "自動偵測：台灣館惹怒中國 光州市道歉 稱尊重一中",
-  "auto_updated": false,
-  "last_updated": "2026-09-03T14:55:04.960256+08:00",
+  "last_incident": "2026-09-04T00:00:00+08:00",
+  "last_incident_title": "自動偵測：北京觀察》亮出紀委身分求關照！河北家長群截圖瘋傳，權力傲慢遭全網炎上 | 田暢 | 新聞",
+  "auto_updated": true,
+  "last_updated": "2026-09-04T14:59:02.376585+08:00",
   "incidents": [
     {
       "date": "2026-03-25",
@@ -224,6 +224,69 @@
     }
   ],
   "recent_news": [
+    {
+      "date": "2026-09-04",
+      "title": "北京觀察》亮出紀委身分求關照！河北家長群截圖瘋傳，權力傲慢遭全網炎上 | 田暢 | 新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAta0g1dlpnN3JFVmh1M1RlbktwdjdyeDgwQmY2Wkw5LUMyam14alRnSXlHZkNpRk9hUFFaeGpfV2paUUxFTGJuNFlIOVZOUQ?oc=5",
+      "source": "google.com",
+      "high_confidence": true
+    },
+    {
+      "date": "2026-09-03",
+      "title": "兒獲交換生遭批特權 蔣萬安：不領公費 連勝文：欺負孩子缺德",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DYktneldjUm1NZ1BSdkNFaVVyYy02VGpYcjJHYkxJOGtubTJmdjkxSmhCbWF4ZHQyemQweTc4QnJvN3QtUi0yLTQ1R3NFeXZkdi15ZUt0N1dUT3ZsWkRWVXh30gFnQVVfeXFMTVc0LVNySm5icXFRbWRZemxKSlRYN1Q5TjFPelVscUNkazhGeU52U0psMGxQNkl2RFBCUDBCTXk2MFZVdUJzTXdGbmIyTm9OaHotb3BNMVBmeE5YNnd5ODRnSmhYSDNqTQ?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-09-03",
+      "title": "洪申翰赴陸參加APEC挨批雙標 梁文傑：跟中共統戰平台「海峽論壇」怎麼比？",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96Z2o4ODJuSEExSmswNzZyZHVpWE5iT1hTLWY0cF95UnB3U1JNTUZSeVYzSWFYVmhFV2dOQnNIVEtSUmh5NlBGdGo4UGg0a3RERHc?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-09-03",
+      "title": "洪申翰赴陸參加APEC挨批雙標　梁文傑：跟中共統戰平台「海峽論壇」怎麼比？",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54YXlxNVpNMjZ0RmlRbTRWRHlfWm5FRGFtS0gwa0JZNEF0akFMS2lOWXBfVnVzMTBtY0RiWld5QVQ4YVY1Mk53TGpRTEF2ZXpldGR2bU1kdHd1YU5Ja3NTMjNwdDB5WEFY0gFoQVVfeXFMTnhheXE1Wk0yNnRGaVFtNFZEeV9abkVEYW1LSDBrQlk0QXRqQUxLaU5ZcF9WdXMxMG1jRGJaV3lBVDhhVjUyTndMalFMQXZlemV0ZHZtTWR0d3VhTklrc1MyM3B0MHlYQVg?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-09-03",
+      "title": "中家長「自稱紀委書記、請老師關照」惹議 官方專案調查",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IV2o5VGpESHhKdk10bGNHakc3dTFkM1hGdGJ6QnV3NjduTkdxYzJIQ0xkRzBfTGMwOUdHWDZMVnFIQjRGYl8zczREbnJKMlI3REE1UExpQ2YwTjJTSjY1SG9B0gFnQVVfeXFMTXEybV9FWExUS2ZTTEN1YWpJN1ZrNHZON25hUDdCdzN6bUZSNmtTSENYZ0F5a3l3bE9DeVdDVG1Fa1lyd0VrVXd3dG9POGRITTVadnAxNHhHTFNtSWRDYUdPRHA3N2pkMA?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-09-03",
+      "title": "光州雙年展風波丨台灣館名稱惹爭議 韓政府:堅持一中立場不變",
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxONVFINHFzaXRlS3dLb3ZBVXB0UDZmTGt3QWJzLXcwX2lhS29nRkNEWUlncXg4Tkgyc2hBRVpLbnkwNnVHWkJUZERpNHNwaDVyVFlOU2ZiQ1ZHZ3NkbHdzemlXLWtaeklIbkFpY18yMXlnOXZVSGdSNDBrRnZaeHdQejhYT2hKc0xhR2pSdWlaLUwzUGU2VWJIX3BnWkZsUThZZlFHNXNkVnktbkxSZ3RKa2VsYWtwWjY0VkdaZ09kdUF1VjJTSV9QOEo3SEtOMXF6OUExek9fa0tCSHVjb2JfTHIySllGdVFsb00yTGM0V2VWeUR4bGVJNzFJampPeXVpWmdiRlA4R3QwQlc3TmdzZzlFclRBd1doUFlIYnZVaXlodmUyUlJ0TVQ5VW5xei1SRWRRdVhhX2trWjlJOFRHYmUwdTVSUUx5VDN0bHpDbENsTkFxVXRfU3hQcldtSFdLaG5IUkFoWDdwdElybTFtZ0I5Rll2MTRRUHR1SzB0NHlPOVpid2paVGxFVTBWRlFPT0VKbXlYbFhoM0hPb2dIcmVqMVZZYkRJTVl4X05yaTlEZw?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-09-02",
+      "title": "蔣得立赴美交換生1年有特權？連勝文怒：欺負十幾歲小朋友非常缺德",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96aS1MTkpYYWh4Q0lMY2pLSF9KOXpULWlsNUNrX3REa0l5T3lieWRiWS00S0RkUk1WR3c2U0FCbWdmUm5HLUpYb05rRDNNSU8ydDNN0gFYQVVfeXFMTzl2dGpjUE9jOGlhZGx0SEZOdkxtbThzcFdRMlNzaGJmRkNlR01ZZE5HQnhQQmo2S1k2S3o4WTJMbFl1X0loVDBXcGlPQVZXZ0FIRE50N2Fpdg?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-09-02",
+      "title": "蔣萬安兒公費留美遭批特權 陳沂：天生一手好牌有什麼辦法",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5feENPZVdoUFVBQ0k1bll1a29KYWhzUzVsX2JmZ0tkVHlfVnN6Y1dLb0w5NFBTelJBOUpuZlMteUthM3hpbDR4aGk0Y09qREx0TkFxbU9DbnJNTzZp0gFiQVVfeXFMTUpKU3ZSN3R0dTZPR2J3YTBVOU9DX1ZpQ3lFYnVzZDZRUUc4d0diUGJNZWtvNVFTSWpKdFpaUExyMXE5NUNkUHN1T3dEaVhOV3pkYk5YMG95QWxaZFJtTmhiZkE?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
+    {
+      "date": "2026-08-22",
+      "title": "安華武統論惹議 大馬學者：華社再挺中 未必埋單北京對台立場",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDcG1JTm9Uc1RkM0M0M0NLandxZm41Q0k2YmExQXdUYjNoWWtwMjZkUy0tOGxDN2hzQ3BHWjE4X21VMzFLSUZmNnZFNFpnLVVfRDdfSjVtX2EyZlR5a2xiZmgxWF9IVV83NkRMQWh3?oc=5",
+      "source": "google.com",
+      "high_confidence": false
+    },
     {
       "date": "2026-09-02",
       "title": "蔣萬安之子蔣得立錄取交換生被稱特權 她嘆：名人小孩不能優秀？",
